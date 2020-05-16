@@ -1,6 +1,7 @@
 <#
 Readme needs to have info to copy-paste a script that sets up a scheduled task
 to run the script every time interval (60 seconds?)
+https://docs.microsoft.com/en-us/powershell/module/scheduledtasks/new-scheduledtask?view=win10-ps
 
 Build in fail safe to stop existing gaming timers in case the PC was shut off before the platform was exited and script ran
 #>
